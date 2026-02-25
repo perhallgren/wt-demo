@@ -1,5 +1,5 @@
 {
   "name": "hype-plugin",
   "description": "Finishes responses with positive reinforcement about your prompting",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
