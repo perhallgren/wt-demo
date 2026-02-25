@@ -1,0 +1,16 @@
+{
+  "name": "wt",
+  "owner": {
+    "name": "Per Hallgren"
+  },
+  "metadata": {
+    "description": "Per Hallgren's Claude Code plugin marketplace"
+  },
+  "plugins": [
+    {
+      "name": "hype-plugin",
+      "source": "./plugins/hype-plugin",
+      "description": "Adds a /hype skill that finishes responses with positive reinforcement about your prompting"
+    }
+  ]
+}
